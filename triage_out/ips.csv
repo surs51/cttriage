@@ -1,0 +1,5 @@
+﻿ip,events,denied,successful_mutating,first_seen,last_seen,regions,top_user_agent,top_events
+203.0.113.10,36,33,0,2026-03-14 02:11:42Z,2026-03-14 02:15:47Z,us-east-1 us-west-2 eu-west-1 eu-central-1 ap-southeast-1,Go-http-client/1.1,DescribeInstances(5) ListFunctions20150331(5) DescribeDBInstances(5) ListClusters(5) DescribeTrails(5) GetSendQuota(5)
+198.51.100.23,30,5,22,2026-03-14 07:16:24Z,2026-03-14 08:04:37Z,us-east-1 us-west-2,aws-sdk-go-v2/1.30.3 os/linux lang/go#1.22.5,InvokeModel(18) InvokeModelWithResponseStream(4) ListFoundationModels(1) GetFoundationModelAvailability(1) PutUseCaseForModelAccess(1) GetModelInvocationLoggingConfiguration(1)
+198.51.100.77,14,1,10,2026-03-14 10:05:14Z,2026-03-14 10:13:15Z,eu-west-1 ap-southeast-1 us-west-2 us-east-1,Boto3/1.34.100 md/Botocore#1.34.100 ua/2.0 os/linux,GetServiceQuota(3) RequestServiceQuotaIncrease(3) AuthorizeSecurityGroupIngress(3) RunInstances(3) VerifyEmailIdentity(1) SendEmail(1)
+192.0.2.55,1,1,0,2026-03-14 10:13:52Z,2026-03-14 10:13:52Z,us-east-1,Mozilla/5.0 (Windows NT 10.0; Win64; x64),ConsoleLogin(1)
