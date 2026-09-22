@@ -30,7 +30,7 @@ Findings:
   ...
 ```
 
-The full report for this run is in [examples/sample_report.md](examples/sample_report.md). The sample
+The full report for this run is in [triage_out/report.md](triage_out/report.md). The sample
 incident is synthetic and uses only documentation IPs and AWS example account and key IDs.
 
 ## Requirements
